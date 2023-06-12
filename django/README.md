@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/django)
+[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/vpotereiko/awesome-compose/tree/master/django)
 
 ### Django application in dev mode
 
@@ -34,10 +34,10 @@ services:
 $ docker compose up -d
 Creating network "django_default" with the default driver
 Building web
-Step 1/6 : FROM python:3.7-alpine
+Step 1/6 : FROM python:3.9-alpine
 ...
 ...
-Status: Downloaded newer image for python:3.7-alpine
+Status: Downloaded newer image for python:3.9-alpine
 Creating django_web_1 ... done
 
 ```
