@@ -1,1 +1,2 @@
 django/app/db.sqlite3
+django/app/example/__pycache__/*.pyc
